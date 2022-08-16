@@ -1,0 +1,19 @@
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" -javaagent:C:\Users\Meghali\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\lib\idea_rt.jar=57219:C:\Users\Meghali\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\bin -Dfile.encoding=UTF-8 -classpath "C:\Users\Meghali\OneDrive\Desktop\NIIT Notes\Course3\Sprint3\c3_s3_mc1_OnlineBanking\out\production\c3_s3_mc1_OnlineBanking" SavingAccountImpl
+Account Details
+Account Holder Name : Meghali
+Account No : 12345678901
+Account Opening Date : 12/3/2020
+Account status : active
+Available Balance : 20000.0
+Total Balance : 20000.0
+Internet And Mobile Banking : true
+Interest Rate : 5.5
+Mode Of Operation : self-operated
+
+After Debit amount Balance is : 19500.0
+After credit amount Balance is : 27500.0
+
+Updated Available Balance : 27500.0
+Updated Total Balance : 27500.0
+
+Process finished with exit code 0
